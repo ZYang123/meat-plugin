@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.zyang123.meatplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
